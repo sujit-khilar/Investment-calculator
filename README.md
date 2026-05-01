@@ -1,21 +1,34 @@
-# React + Vite
+📊 Investment Calculator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive Investment Calculator built with React (Vite) that helps users estimate the future value of their investments based on initial capital, annual contributions, expected return rate, and duration.
 
-Currently, two official plugins are available:
+🚀 Features
+📈 Calculate compound investment growth
+💰 Supports initial investment and yearly contributions
+⏳ Adjustable investment duration
+📊 Real-time results with dynamic updates
+⚡ Fast and lightweight UI powered by Vite + React
+🛠 Tech Stack
+⚛️ React
+⚡ Vite
+🎨 CSS (or mention if you used Tailwind/other styling)
+📌 How It Works
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The app calculates investment growth using the principles of compound interest, factoring in:
 
-## React Compiler
+Initial investment
+Annual investment
+Expected annual return
+Investment duration
+📦 Installation
+git clone https://github.com/sujit-khilar/Investment-calculator.git
+cd Investment-calculator
+npm install
+npm run dev
+🌐 Live Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+(Add your deployed link here if available)
 
-## Expanding the ESLint configuration
+🤝 Contributing
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Investment-calculator
-# Investment-calculator
-# Investment-calculator
-# Investment-calculator
-# Investment-calculator
+Contributions, issues, and feature requests are welcome!
